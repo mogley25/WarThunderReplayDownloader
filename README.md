@@ -11,3 +11,5 @@ How to run?
 4. Type in "python ReplayDownloader.py" and hit enter.
 5. Follow the GUI instructions.
 6. Profit.
+
+Video Demonstration: https://youtu.be/YI3HF1UX2NM

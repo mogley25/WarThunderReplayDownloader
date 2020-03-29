@@ -9,7 +9,7 @@ How to run?
 2. Go to address bar in file explorer where the python file is located.
 3. Type in "cmd" and hit enter
 4. Type in "python ReplayDownloader.py" and hit enter.
-5. Follow the GUI instructions.
+5. Follow the CLI instructions.
 6. Profit.
 
 Video Demonstration: https://youtu.be/YI3HF1UX2NM
